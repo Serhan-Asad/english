@@ -36,6 +36,30 @@ function WorksCited() {
         Schultheiss, D. P., &amp; Riggio, R. E. (2014). The Role of the Self and
         Self-Discovery in Psychological Well-Being.
       </p>
+      <p>
+        Discover Yourself Art Print, I Love Doodle.{' '}
+        <a href="https://www.ilovedoodle.com/products/discover-yourself-art-print">
+          https://www.ilovedoodle.com/products/discover-yourself-art-print
+        </a>
+      </p>
+      <p>
+        Decision Making Critical Thinking Psychology Vector, VectorStock.{' '}
+        <a href="https://www.vectorstock.com/royalty-free-vector/decision-making-critical-thinking-psychology-vector-30249688">
+          https://www.vectorstock.com/royalty-free-vector/decision-making-critical-thinking-psychology-vector-30249688
+        </a>
+      </p>
+      <p>
+        React.{' '}
+        <a href="https://reactjs.org/">
+          https://reactjs.org/
+        </a>
+      </p>
+      <p>
+        Vercel.{' '}
+        <a href="https://vercel.com/">
+          https://vercel.com/
+        </a>
+      </p>
     </div>
   );
 }
